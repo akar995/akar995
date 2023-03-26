@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akar Imdad</h1>
-<h3 align="center">I'm a flutter and full-stack mobile developer in Iraq. I have been using flutter since beta version and I have been developing proejct with flutter since the beta version. I use Laravel for backend and I have about 2 years of experience in Laravel. finally I also  have 2 years of experience in native android including Java and Kotlin</h3>
+<h3 align="center">I am a full-stack mobile developer in Iraq with expertise in Flutter. I have been utilizing Flutter since its beta version and have been involved in the development of various projects using this technology. For backend development, I rely on Laravel and possess 2 years of experience in using it. Moreover, I also have a proficiency of 2 years in native Android, working with both Java and Kotlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akar995&label=Profile%20views&color=0e75b6&style=flat" alt="akar995" /> </p>
 
