@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akar Imdad</h1>
-<h3 align="center">I am a full-stack mobile developer in Iraq with expertise in Flutter. I have been utilizing Flutter since its beta version and have been involved in the development of various projects using this technology. For backend development, I rely on Laravel and possess 2 years of experience in using it. Moreover, I also have a proficiency of 2 years in native Android, working with both Java and Kotlin.</h3>
+<h3 align="center">I am a full-stack mobile developer based in Iraq, specializing in Flutter and React Native technologies. My journey with Flutter began during its beta phase, and since then, I have actively participated in diverse project developments, harnessing its potential to create engaging cross-platform mobile applications.
+
+In the realm of React Native, I possess extensive experience, having significantly contributed to the creation of multiple applications, notably the Lezzoo Super App, during my tenure at Lezzo.
+
+While my expertise in native Android is at a junior level, I have a foundational understanding of both Java and Kotlin. I am keen on advancing my skills in native Android development and staying updated with the latest industry practices.
+
+When it comes to backend development, I rely on the proficiency of Node.js. Over the span of approximately two years, I have adeptly utilized this technology to craft robust server-side solutions, essential for empowering dynamic mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akar995&label=Profile%20views&color=0e75b6&style=flat" alt="akar995" /> </p>
 
